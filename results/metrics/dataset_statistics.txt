@@ -1,0 +1,14 @@
+DATASET STATISTICS - Set A
+================================================================================
+
+Patient-level:
+  Total analyzed: 5044
+  Sepsis patients: 450 (8.9%)
+  Non-sepsis patients: 4594 (91.1%)
+
+Hour-level:
+  Total hours: 196,564
+  Hours with sepsis: 4,307 (2.2%)
+  Hours without sepsis: 192,257 (97.8%)
+
+Class imbalance ratio: 44.6:1
